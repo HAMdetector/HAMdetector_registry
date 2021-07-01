@@ -1,0 +1,3 @@
+name = "raxml_ng_jll"
+uuid = "43212305-17f8-588b-b284-440d77d456cb"
+repo = "https://github.com/HAMdetector/raxml_ng_jll.jl.git"
