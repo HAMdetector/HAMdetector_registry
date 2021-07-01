@@ -4,3 +4,4 @@ repo = "https://github.com/HAMdetector/HAMdetector_registry.git"
 description = "Registry for HAMdetector"
 
 [packages]
+eecc378a-c28e-5a81-8849-a983a4161162 = { name = "CmdStanBinaries_jll", path = "C/CmdStanBinaries_jll" }
