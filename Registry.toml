@@ -1,0 +1,6 @@
+name = "HAMdetector_registry"
+uuid = "4094375c-088a-412d-88ad-4e94234dd202"
+repo = "https://github.com/HAMdetector/HAMdetector_registry.git"
+description = "Registry for HAMdetector"
+
+[packages]
